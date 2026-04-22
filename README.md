@@ -73,4 +73,26 @@ and inform operational and marketing improvements.
 ## Tools & Technologies
 - **Data Modeling:** Microsoft Excel (Advanced)
 - **CRM Structure:** Custom-built relational schema across 9 linked sheets
-- **Segmentation:** Customer cohort analysis by institution, source, an
+- **Segmentation:** Customer cohort analysis by institution, source, and lifecycle stage
+- **Campaign Tracking:** Multi-channel attribution across email, listing platforms, and partner referrals
+- **Pipeline Reporting:** Lead stage tracking from inquiry → contacted → tour → application → lease
+
+---
+
+## Skills Demonstrated
+- CRM Data Architecture & Administration
+- Business Process Modeling
+- Lead Conversion & Funnel Analysis
+- Customer Segmentation & Cohort Design
+- Campaign Performance Tracking & Attribution
+- Pricing & Occupancy Analytics
+- Report Development & KPI Framework Design
+- Data-Driven Decision Support
+
+---
+
+## Portfolio Context
+This project was developed as part of ongoing analytics work while completing 
+an M.S. in Business Analytics at UMass Amherst's Isenberg School of Management, 
+drawing directly on experience managing leasing operations, CRM systems, and 
+marketing performance at a Boston-area real estate portfolio.
